@@ -1,6 +1,6 @@
 .DS_Store
 *pyc
-# scissor.db
+scissor.db
 scissor
 
 # Byte-compiled / optimized / DLL files
