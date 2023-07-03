@@ -80,11 +80,11 @@ Scissor is a simple tool which makes URLs as short as possible, as "brief is the
 
 Scissor converts long URLs into easily sharable QR codes and short, customizable links.
 
-This tool was built as a capstone project by <a href="https://www.github.com/Ze-Austin">Ze Austin</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a> who's learning to create magic with Python.
+This tool was built as a capstone project by <a href="https://www.github.com/zichdan">Zichdan</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a> who's learning to create magic with Python.
 
-Live Site: [sciz.site](https://www.sciz.site)
+Live Site: [sciz.site](https://www.cutle.tech)
 
-Full Documentation: [Scissor Wiki](https://github.com/Ze-Austin/scissor/wiki)
+Full Documentation: [Scissor Wiki](https://github.com/zichdan/scissor/wiki)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -129,7 +129,7 @@ This tool can be accessed via the deployed site or a local copy of the project.
 
 ### Live Link
 
-Deployed site: [sciz.site](https://www.sciz.site) - hosted via [render](https://www.render.com) 
+Deployed site: [sciz.site](https://www.cutle.tech) - hosted via [render](https://www.render.com) 
 
 ### Localhost
 
@@ -143,7 +143,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/Ze-Austin/scissor.git
+   git clone https://github.com/zichdan/scissor.git
    ```
 2. Activate the virtual environment
    ```sh
@@ -168,7 +168,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 <br />
 
-[![Scissor Screenshot][scissor-screenshot]](https://github.com/Ze-Austin/scissor/blob/main/website/static/screenshots/scissor.png)
+[![Scissor Screenshot][scissor-screenshot]](https://github.com/zichdan/scissor/blob/main/website/static/screenshots/scissor.png)
 
 <br/>
 
@@ -176,7 +176,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 <br/>
 
-[![Dashboard Screenshot][dashboard-screenshot]](https://github.com/Ze-Austin/scissor/blob/main/website/static/screenshots/dashboard.png)
+[![Dashboard Screenshot][dashboard-screenshot]](https://github.com/zichdan/scissor/blob/main/website/static/screenshots/dashboard.png)
 
 <br/>
 
@@ -187,7 +187,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/scissor/blob/main/LICENSE">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/zichdan/scissor/blob/main/LICENSE">LICENSE</a> for more information.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -196,13 +196,13 @@ Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/sci
 <!-- Contact -->
 ## Contact
 
-Dr Austin Wopara - [@Ze_Austin](https://twitter.com/Ze_Austin) - austinwopara@gmail.com
+Dr Austin Wopara - [@Ze_Austin](https://twitter.com/Zichdan_) - austinwopara@gmail.com
 
-Live Site: [sciz.site](https://www.sciz.site)
+Live Site: [sciz.site](https://www.cutle.tech)
 
-Project Link: [Scissor Repo](https://github.com/Ze-Austin/scissor)
+Project Link: [Scissor Repo](https://github.com/zichdan/scissor)
 
-Documentation: [Scissor Wiki](https://github.com/Ze-Austin/scissor/wiki)
+Documentation: [Scissor Wiki](https://github.com/zichdan/scissor/wiki)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -227,18 +227,18 @@ This project was made possible by:
 ---
 
 <!-- Markdown Links & Images -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ze-Austin/scissor.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ze-Austin/scissor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ze-Austin/scissor.svg?style=for-the-badge
-[forks-url]: https://github.com/Ze-Austin/scissor/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ze-Austin/scissor.svg?style=for-the-badge
-[stars-url]: https://github.com/Ze-Austin/scissor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ze-Austin/scissor.svg?style=for-the-badge
-[issues-url]: https://github.com/Ze-Austin/scissorissues
-[license-shield]: https://img.shields.io/github/license/Ze-Austin/scissor.svg?style=for-the-badge
-[license-url]: https://github.com/Ze-Austin/scissor/blob/main/LICENSE.txt
-[twitter-shield]: https://img.shields.io/badge/-@ze_austin-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ze_austin
-[twitter-url]: https://twitter.com/ze_austin
+[contributors-shield]: https://img.shields.io/github/contributors/zichdan/scissor.svg?style=for-the-badge
+[contributors-url]: https://github.com/zichdan/scissor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zichdan/scissor.svg?style=for-the-badge
+[forks-url]: https://github.com/zichdan/scissor/network/members
+[stars-shield]: https://img.shields.io/github/stars/zichdan/scissor.svg?style=for-the-badge
+[stars-url]: https://github.com/zichdan/scissor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/zichdan/scissor.svg?style=for-the-badge
+[issues-url]: https://github.com/zichdan/scissorissues
+[license-shield]: https://img.shields.io/github/license/zichdan/scissor.svg?style=for-the-badge
+[license-url]: https://github.com/zichdan/scissor/blob/main/LICENSE.txt
+[twitter-shield]: https://img.shields.io/badge/-@zichdan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Zichdan_
+[twitter-url]: https://twitter.com/Zichdan_
 [scissor-screenshot]: website/static/screenshots/scissor.png
 [dashboard-screenshot]: website/static/screenshots/dashboard.png
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
