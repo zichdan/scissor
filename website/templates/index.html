@@ -11,7 +11,7 @@
   </div>
   <div class="form-group">
     <label for="custom_path">Custom Back-Half (Optional)</label>
-    <input type="text" name="custom_path" class="form-control" placeholder="Example: sciz.site/custom-back-half">
+    <input type="text" name="custom_path" class="form-control" placeholder="Example: cutle.tech/custom-back-half">
   </div>
   <div class="form-group">
     <input type="submit" value="Shorten Link" class="button"/>
@@ -26,9 +26,12 @@
     class="logo"
   />
 </div>
-<h3>...brief is the new black</h3>
-<small>
-  <a href="{{url_for('register')}}">Sign up</a> or <a href="{{url_for('login')}}">log in</a> to shorten links for free
-</small>
+<br>
+<h3>...Cutle Is The Best Tech Cutting Edge Tool For Url-Shortening</h3>
+<br>
+<br>
+<div class="btn-box">
+  <a href="{{url_for('register')}}" class="btn">Sign Up</a> &nbsp;or&nbsp; <a href="{{url_for('login')}}" class="btn">Login</a> to shorten links for free
+<div>
 {% endif %}
 {% endblock content %}
