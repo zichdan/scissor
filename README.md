@@ -76,13 +76,13 @@
 <!-- About the Tool -->
 ## About Scissor
 
-Scissor is a simple tool which makes URLs as short as possible, as "brief is the new black" in the age of social media.
+Cutle is a simple tool which makes URLs as short as possible, as "brief is the new black" in the age of social media.
 
-Scissor converts long URLs into easily sharable QR codes and short, customizable links.
+Cutle converts long URLs into easily sharable QR codes and short, customizable links.
 
 This tool was built as a capstone project by <a href="https://www.github.com/zichdan">Zichdan</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a> who's learning to create magic with Python.
 
-Live Site: [sciz.site](https://www.cutle.tech)
+Live Site: [cutle.tech](https://www.cutle.tech)
 
 Full Documentation: [Scissor Wiki](https://github.com/zichdan/scissor/wiki)
 
@@ -129,7 +129,7 @@ This tool can be accessed via the deployed site or a local copy of the project.
 
 ### Live Link
 
-Deployed site: [sciz.site](https://www.cutle.tech) - hosted via [render](https://www.render.com) 
+Deployed site: [cutle.tech](https://www.cutle.tech) - hosted via [render](https://www.render.com) 
 
 ### Localhost
 
@@ -196,9 +196,9 @@ Distributed under the MIT License. See <a href="https://github.com/zichdan/sciss
 <!-- Contact -->
 ## Contact
 
-Dr Austin Wopara - [@Ze_Austin](https://twitter.com/Zichdan_) - austinwopara@gmail.com
+Daniel Ezichi - [@Ze_Austin](https://twitter.com/Zichdan_) - zichdan1999@gmail.com
 
-Live Site: [sciz.site](https://www.cutle.tech)
+Live Site: [cutle.tech](https://www.cutle.tech)
 
 Project Link: [Scissor Repo](https://github.com/zichdan/scissor)
 
