@@ -5,7 +5,7 @@ font name: Rubik-Black
 font link: https://fonts.google.com/specimen/Rubik
 font author: Hubert and Fischer
 font author site: http://hubertfischer.com/
-Slogan Font: KaushanScript-Regular.ttf
+Slogan Font: Snickles.ttf
 
 icon designer: Genius Icons
 icon designer link: /rajappar29

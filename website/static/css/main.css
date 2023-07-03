@@ -5,8 +5,8 @@
 body {
   margin: 0;
   text-align: center;
-  background-color: #eee;
-  color: midnightblue;
+  background-color: rgb(228, 245, 74);
+  color: rgb(44, 25, 112);
   font-size: 20px;
 }
 header {
@@ -14,7 +14,7 @@ header {
   flex-flow: row wrap;
   justify-content: space-between;
   margin-bottom: 20px;
-  background-color: rgb(89, 0, 255);
+  background-color: #00ab00;
   min-height: 50px;
   max-height: auto;
 }
@@ -43,11 +43,11 @@ header a:hover {
 }
 a {
   text-decoration: none;
-  color: darkmagenta;
+  color:darkgray;
   overflow-wrap: break-word;
 }
 a:hover {
-  color: fuchsia;
+  color:green;
   transition: 0.3s;
 }
 .wave {
@@ -103,7 +103,7 @@ a:hover {
 }
 .card {
   width: 100%;
-  border: 2px darkmagenta dotted;
+  border: 2px rgb(102, 139, 0) dotted;
   padding: 15px;
   border-radius: 5px;
 }
@@ -162,7 +162,7 @@ label {
 }
 th {
   width: 200px;
-  background-color: darkmagenta;
+  background-color: rgb(102, 139, 0);
   color: floralwhite;
   padding: 10px;
   border: 1px dotted midnightblue;
