@@ -15,7 +15,7 @@
 <!-- Project Logo -->
 <br />
 <div align="center">
-  <a href="https://sciz.site">
+  <a href="https://cutle.tech">
     <img src="website/static/scissor-logo/default.png" alt="Logo" width="90%" height="30%">
   </a>
 </div>
@@ -24,14 +24,14 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/Ze-Austin/scissor/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/zichdan/scissor/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#sample">View Demo</a>
     ·
-    <a href="https://github.com/Ze-Austin/scissor/issues">Report Bug</a>
+    <a href="https://github.com/zichdan/scissor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ze-Austin/scissor/issues">Request Feature</a>
+    <a href="https://github.com/zichdan/scissor/issues">Request Feature</a>
   </p>
 </div>
 
@@ -42,7 +42,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-scissor">About Scissor</a>
+      <a href="#about-scissor">About Cutle</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
