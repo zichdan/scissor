@@ -74,7 +74,7 @@
 ---
 
 <!-- About the Tool -->
-## About Scissor
+## About Cutle
 
 Cutle is a simple tool which makes URLs as short as possible, as "brief is the new black" in the age of social media.
 
@@ -196,11 +196,11 @@ Distributed under the MIT License. See <a href="https://github.com/zichdan/sciss
 <!-- Contact -->
 ## Contact
 
-Daniel Ezichi - [@Ze_Austin](https://twitter.com/Zichdan_) - zichdan1999@gmail.com
+Daniel Ezichi - [@Zichdan_](https://twitter.com/Zichdan_) - zichdan1999@gmail.com
 
 Live Site: [cutle.tech](https://www.cutle.tech)
 
-Project Link: [Scissor Repo](https://github.com/zichdan/scissor)
+Project Link: [Cutle Repo](https://github.com/zichdan/scissor)
 
 Documentation: [Scissor Wiki](https://github.com/zichdan/scissor/wiki)
 
@@ -240,7 +240,7 @@ This project was made possible by:
 [twitter-shield]: https://img.shields.io/badge/-@zichdan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Zichdan_
 [twitter-url]: https://twitter.com/Zichdan_
 [scissor-screenshot]: website/static/screenshots/scissor.png
-[dashboard-screenshot]: website/static/screenshots/dashboard.png
+[analytics-screenshot]: website/static/screenshots/dashboard.png
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [jinja]: https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black
