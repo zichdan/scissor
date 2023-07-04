@@ -65,7 +65,7 @@
     width: 100%;
 }
 
-.home-imgHover {
+/* .home-imgHover {
     position: absolute;
     top: 0;
     right: 30px;
@@ -75,8 +75,8 @@
     transition: 3s;
     /* animation: manipActiveHover 1s forwards; */
     /* animation-delay: 2s; */
-    pointer-events: none;
-}
+    /* pointer-events: none; */
+/* } */ 
 
 
 

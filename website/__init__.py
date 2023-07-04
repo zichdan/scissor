@@ -19,7 +19,7 @@ if uri.startswith('postgres://'):
     uri = uri.replace('postgres://', 'postgresql://', 1)
 
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + \
-    # os.path.join(base_dir, 'scissor.db')
+#     os.path.join(base_dir, 'scissor.db')
 
 app.config['SQLALCHEMY_DATABASE_URI'] = uri
 
