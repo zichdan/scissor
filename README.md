@@ -168,7 +168,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 <br />
 
-[![Scissor Screenshot][scissor-screenshot]](https://github.com/zichdan/scissor/blob/main/website/static/screenshots/scissor.png)
+[![Scissor Screenshot][cutle-screenshot]](https://github.com/zichdan/scissor/blob/main/website/static/screenshots/scissor.png)
 
 <br/>
 
@@ -176,7 +176,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 <br/>
 
-[![Dashboard Screenshot][dashboard-screenshot]](https://github.com/zichdan/scissor/blob/main/website/static/screenshots/dashboard.png)
+[![Scissor Screenshot][cutle-analytics]](https://github.com/zichdan/scissor/blob/main/website/static/screenshots/dashboard.png)
 
 <br/>
 
@@ -239,8 +239,8 @@ This project was made possible by:
 [license-url]: https://github.com/zichdan/scissor/blob/main/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/-@zichdan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Zichdan_
 [twitter-url]: https://twitter.com/Zichdan_
-[scissor-screenshot]: website/static/screenshots/scissor.png
-[analytics-screenshot]: website/static/screenshots/dashboard.png
+[cutle-screenshot]: website/static/screenshots/scissor.png
+[cutle-analytics]: website/static/screenshots/dashboard.png
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [jinja]: https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black
