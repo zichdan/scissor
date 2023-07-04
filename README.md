@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://cutle.tech">
-    <img src="website/static/scissor-logo/default.png" alt="Logo" width="90%" height="30%">
+    <img src="website/static/screenshots/scissor.pngg" alt="Logo" width="90%" height="30%">
   </a>
 </div>
 
